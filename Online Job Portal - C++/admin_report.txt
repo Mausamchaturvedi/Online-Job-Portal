@@ -1,0 +1,6 @@
+========== ADMIN REPORT ==========
+Total Users: 4
+Total Jobs: 8
+Total Applications: 4
+Total Companies: 1
+Total Interviews: 1

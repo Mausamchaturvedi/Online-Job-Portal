@@ -1,0 +1,9 @@
+TCS|Developer|95000|Python,Java
+Wipro|analytics|5666666|python
+TCS|developer||java
+101|Infosys|Android Developer|50000000|Java,Kotlin
+101|Infosys|python|6788888|java
+105|Accenture Pvt.Ltd..|Backend Developer|95000|Java,Python,DBMS,Kotlin
+105|TCS|Developer|950000|python
+111|TCS|Application Developer |85000|Python,Kotlin|IT
+105|Wiproo|Developer|900000|Python|IT

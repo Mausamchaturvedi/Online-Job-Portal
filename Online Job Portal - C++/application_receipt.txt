@@ -1,0 +1,17 @@
+====================================
+     JOB APPLICATION RECEIPT
+====================================
+Applicant Name: Varsha Sharma
+Company Name: TCS
+Job Title: Developer
+Status: Applied
+
+
+====================================
+       JOB APPLICATION RECEIPT
+====================================
+Applicant Name: Varsha
+Company Name: Wipro
+Job Title: Developer
+Status: Applied
+====================================
