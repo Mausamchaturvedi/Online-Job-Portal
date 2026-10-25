@@ -1,0 +1,4 @@
+mausam|mausam@gmail.com|1234|95|mca|python
+mausam|mausam40@gmail.com|12345|9548431062|MCA|Python,Java
+samarth|samarth@gmail.com|5678|95000000000|MCA|Python
+Mausam|mausam40@gmail.com|12345|9548431062|BCA,MCA|JAVA,PYTHON,C++
